@@ -49,5 +49,5 @@ exports.pm2Monitor = callback => {
         });
       }
     });
-  }, 300000);
+  }, 30000);
 };
